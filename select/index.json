@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "SUPER HERO",
+  "base_artist": "Lil KING",
+  "createdAt": "2026-01-06T04:29:32.129317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Super Hero #5",
+      "artist": "Reel Big Fish",
+      "has_synced": false,
+      "path": "select/01_Super_Hero__5_Reel_Big_Fish.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/02_Super_Hero_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/03_Super_Hero_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "12_Super Hero",
+      "artist": "Earth Wind & Fire",
+      "has_synced": true,
+      "path": "select/04_12_Super_Hero_Earth_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SUPER HERO",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/05_SUPER_HERO_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SUPER HERO",
+      "artist": "VIXX (빅스)",
+      "has_synced": true,
+      "path": "select/06_SUPER_HERO_VIXX_(빅스).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "VIXX",
+      "has_synced": false,
+      "path": "select/07_Super_Hero_VIXX.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hero (Super-Hero mix)",
+      "artist": "Chad Kroeger feat. Josey Scott",
+      "has_synced": true,
+      "path": "select/08_Hero_(Super-Hero_mix)_Chad_Kroeger_feat._Josey_Scott.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "Kool Keith feat. MF Doom",
+      "has_synced": false,
+      "path": "select/09_Super_Hero_Kool_Keith_feat._MF_Doom.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Super Hero (My Knight)",
+      "artist": "The House Crew",
+      "has_synced": false,
+      "path": "select/10_Super_Hero_(My_Knight)_The_House_Crew.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/11_Super_Hero_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SUPER HERO - Album ver.",
+      "artist": "MIYAVI",
+      "has_synced": false,
+      "path": "select/12_SUPER_HERO_-_Album_ver._MIYAVI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soái Ca (Super Hero)",
+      "artist": "Bao Uyen",
+      "has_synced": true,
+      "path": "select/13_Soái_Ca_(Super_Hero)_Bao_Uyen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Soái Ca (Super Hero)",
+      "artist": "Bảo Uyên",
+      "has_synced": true,
+      "path": "select/14_Soái_Ca_(Super_Hero)_Bảo_Uyên.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SUPER HERO (feat. YURiCa/花たん/709sec.)",
+      "artist": "SOUND HOLIC feat. YURiCa, 花たん & 709sec.",
+      "has_synced": true,
+      "path": "select/15_SUPER_HERO_(feat._YURiCa_花たん_709sec.)_SOUND_HOLIC_feat._YURiCa,_花たん_&_709sec..lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SUPER HERO",
+      "artist": "SOUND HOLIC",
+      "has_synced": true,
+      "path": "select/16_SUPER_HERO_SOUND_HOLIC.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Super Hero",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/17_Super_Hero_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "SUPER HERO",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/18_SUPER_HERO_VIXX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUPER HERO",
+      "artist": "Lil King",
+      "has_synced": false,
+      "path": "select/pl_01_SUPER_HERO_Lil_King.txt"
+    }
+  ]
+}
